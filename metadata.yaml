@@ -1,0 +1,51 @@
+_repo: Hardtack-and-coffee-b-or-the-unwritten-story-of-Army-life-including-chapters-on-enlisting-lif__72532
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Reed, Charles Wellington
+    aliases:
+    - Reed, C. W. (Charles Wellington)
+    - Reed, Charles W.
+    birthdate: 1841
+    deathdate: 1926
+    gutenberg_agent_id: '56716'
+    url: http://www.gutenberg.org/2009/agents/56716
+    wikipedia: https://en.wikipedia.org/wiki/Charles_W._Reed
+creator:
+  author:
+    agent_name: Billings, John Davis
+    alias: Billings, John D. (John Davis)
+    birthdate: 1842
+    deathdate: 1933
+    gutenberg_agent_id: '56715'
+    url: http://www.gutenberg.org/2009/agents/56715
+description: ''
+gutenberg_issued: '2023-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72532'
+  lccn: 02008524
+language: en
+pgterms:marc904: https://archive.org/details/hardtackcoffeeor00bill/page/62/mode/2up
+pgterms:marc905: 20201221224943billings
+pgterms:marc906: '1887'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aBoston :$bGeorge M. Smith & Co., $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States. Army -- Military life -- History -- 19th century'
+- !lcsh 'Billings, John Davis, 1842-1933'
+- !lcsh 'United States. Army -- History -- Civil War, 1861-1865'
+- !lcc 'E456'
+- GITenberg
+title: 'Hardtack and coffee : $b or, the unwritten story of Army life, including chapters
+  on enlisting, life in tents and log huts, jonahs and beats, offences and punishments,
+  raw recruits, foraging, corps and corps badges, the wagon trains, the Army mule,
+  the Engineer Corps, the Signal Corps, etc.'
+url: http://www.gutenberg.org/ebooks/72532
