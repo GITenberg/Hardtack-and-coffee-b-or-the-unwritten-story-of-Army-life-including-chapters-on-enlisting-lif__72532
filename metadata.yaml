@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '56716'
     url: http://www.gutenberg.org/2009/agents/56716
     wikipedia: https://en.wikipedia.org/wiki/Charles_W._Reed
+covers:
+- cover_type: archival
+  image_path: 72532-h/images/cover.jpg
 creator:
   author:
     agent_name: Billings, John Davis
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '56715'
     url: http://www.gutenberg.org/2009/agents/56715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72532#Hardtack-and-coffee-b-or-the-unwritten-story-of-Army-life-including-chapters-on-enlisting-lif_
 gutenberg_issued: '2023-12-28'
 gutenberg_type: Text
 identifiers:
